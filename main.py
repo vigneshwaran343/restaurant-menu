@@ -114,13 +114,13 @@ def home():
     return f"""
     <html>
     <head>
-    <title>Royal Spice Restaurant</title>
+    <title>Thumbi Restaurant</title>
     {STYLE}
     </head>
 
     <body class="home">
 
-        <h1>🍽 Royal Spice Restaurant</h1>
+        <h1>🍽 Thumbi Restaurant</h1>
 
         <h3>Welcome to Our Digital Menu</h3>
 
